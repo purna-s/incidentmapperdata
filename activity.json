@@ -1,7 +1,7 @@
 {
   "name": "incidentmapperdata",
   "type": "flogo:activity",
-  "ref": "github.com/purna-05/incidentmapperdata",
+  "ref": "github.com/purna-s/incidentmapperdata",
   "version": "0.0.1",
   "title": "IncidentMapper",
   "description": "Simple Mapper Activity",
