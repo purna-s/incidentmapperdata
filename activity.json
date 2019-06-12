@@ -1,0 +1,23 @@
+{
+  "name": "incidentmapperdata",
+  "type": "flogo:activity",
+  "ref": "github.com/purna-05/incidentmapperdata",
+  "version": "0.0.1",
+  "title": "IncidentMapper",
+  "description": "Simple Mapper Activity",
+ 
+  "input":[
+    {
+      "name": "mappings",
+      "type": "array",
+      "required": true,
+      "display": {
+        "name": "MapperData",
+        "type": "mapper",
+        "mapperOutputScope" : "action"
+      }
+    }
+  ],
+  "output": [
+  ]
+}
